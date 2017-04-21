@@ -1,20 +1,20 @@
 {
-  "name": "pastore-cli",
+  "name": "REPONAME",
   "version": "0.0.0",
   "description": "",
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amovah/pastore-cli.git"
+    "url": "git+https://github.com/amovah/REPONAME.git"
   },
   "keywords": [
   ],
   "author": "Ali Movahedi <ali_movahedi@aol.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amovah//issues"
+    "url": "https://github.com/amovah/REPONAME/issues"
   },
-  "homepage": "https://github.com/amovah/#readme",
+  "homepage": "https://github.com/amovah/REPONAME#readme",
   "files": [
     "build"
   ],
