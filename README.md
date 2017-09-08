@@ -1,3 +1,3 @@
-its my starting template for my repo and new projects
+It's my starting point for my projects, all of them.
 
-you can have your own :D .
+you can fork and have one for yourself.
