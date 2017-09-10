@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 var gulp = require('gulp');
 var babel = require('gulp-babel');
 var eslint = require('gulp-eslint');
