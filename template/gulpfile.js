@@ -3,11 +3,10 @@
 var gulp = require('gulp');
 var babel = require('gulp-babel');
 var eslint = require('gulp-eslint');
-var rm = require('gulp-rimraf');
+var del = require('del');
 
 gulp.task('clean', function() {
-  return gulp.src('build', { read: false })
-        .pipe(rm());
+  return del('build');
 });
 
 gulp.task('babel', ['clean'], function() {

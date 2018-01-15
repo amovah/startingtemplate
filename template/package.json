@@ -18,20 +18,21 @@
     "build"
   ],
   "directories": {
-    "lib": "src",
-    "bin": "bin"
+    "lib": "src"
   },
   "engines": {
     "node": ">=0.12.0"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.1",
     "babel-plugin-add-module-exports": "^0.2.1",
-    "babel-preset-env": "^1.6.0",
-    "eslint": "^3.19.0",
+    "babel-preset-env": "^1.6.1",
+    "del": "^3.0.0",
+    "eslint": "^4.15.0",
     "gulp": "^3.9.1",
-    "gulp-babel": "^6.1.2",
-    "gulp-eslint": "^3.0.1",
-    "gulp-rimraf": "^0.2.1"
-  }
+    "gulp-babel": "^7.0.0",
+    "gulp-eslint": "^4.0.1"
+  },
+  "dependencies": {}
 }
