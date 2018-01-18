@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "main": "build/index.js",
-  "script": {
+  "scripts": {
     "build": "gulp dev; gulp watch"
   },
   "repository": {
@@ -24,7 +24,7 @@
     "lib": "src"
   },
   "engines": {
-    "node": ">=0.12.0"
+    "node": ">=9.4.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -35,7 +35,8 @@
     "eslint": "^4.15.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.0",
-    "gulp-eslint": "^4.0.1"
+    "gulp-eslint": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
   },
   "dependencies": {}
 }
