@@ -10,9 +10,6 @@
     "es6": true,
     "mocha": true
   },
-  "globals": {
-    "rootRequire": true
-  },
   "rules": {
     "no-compare-neg-zero": 2,
     "no-cond-assign": [2, "always"],

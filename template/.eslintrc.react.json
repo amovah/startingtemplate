@@ -13,10 +13,6 @@
   "plugins": [
     "react"
   ],
-  "globals": {
-    "shared": true,
-    "rootRequire": true
-  },
   "rules": {
     "react/display-name": 0,
     "react/jsx-boolean-value": 1,
